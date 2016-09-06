@@ -14,7 +14,7 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 
 - failams **pirmas.sh** ir **antras.sh** suteikti vykdymo teisę.
 
-- aprašyti funkciją **sandauga()**, kuri paskaičiuotų masyvo iš intervalo **[1..9]** sandaugą su skaičiumi įvestu iš komandinės eilutės.
+- aprašyti funkciją **sandauga()**, kuri apskaičiuotų masyvo iš intervalo **[1..9]** sandaugą su skaičiumi įvestu iš komandinės eilutės.
 
 - aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro įvesto iš komandinės eilutės sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
 
