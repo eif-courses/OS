@@ -15,7 +15,7 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 
 - failams **pirmas.sh** ir **antras.sh** suteikti vykdymo teisę.
 
-- aprašyti funkciją **sandauga()**, kuri apskaičiuoja įvesto iš klaviatūros sveikojo skaičiaus sandaugą, iš skaičių priklausančių intervalui **[1..9]**.
+- aprašyti funkciją **sandauga()**, kuri paskaičiuotų masyvo iš intervalo **[1..9]** sandaugą su skaičiumi įvestu iš komandinės eilutės.
 
 - aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro įvesto iš komandinės eilutės sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
 
@@ -24,14 +24,23 @@ ___
 ___
 Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami iš komandinės eilutės:
 
-- palyginti 2 failus tarpusavyje ir nustatyti, kuris failas yra didesnis.
+- palyginti 2 failus tarpusavyje ir nustatyti, kuris failas yra didesnis išvesti į ekraną.
 
-- išvesti failų informaciją į ekraną, bei pateikti rezultatą, kuris failas yra didesnis, taip pat jeigu failų dydžiai yra vienodi išvesti atitinkamą tekstą. Jeigu failas yra didesnis paryškinti šio failo vardą pavyzdžiui geltoną ar kokia nors kita spalva.
+- išvesti failų informaciją į ekraną, bei pateikti rezultatą, kuris failas yra didesnis, taip pat jeigu failų dydžiai yra vienodi išvesti atitinkamą tekstą. 
+- jeigu failas yra didesnis paryškinti šio failo vardą pavyzdžiui geltoną ar kokia nors kita spalva.
 
-- vietoje stat komandos naudoti komandą wc failų dydžiui nustatyti.
+- vietoje ```stat``` komandos naudoti komandą ``wc`` failų dydžiui nustatyti.
 
-- nustatyti ar šiems failams yra suteikta teisė „vykdyti“, jeigu taip išvesti atitinkamą pranešimą.
+- nustatyti ar šiems failams yra suteikta teisė „vykdyti“, jeigu taip išvesti atitinkamą pranešimą, kad failas turi ar neturi.
+- 
+___
 
+**3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
+___
+
+Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviatūros ir priklausomai nuo pasirinkto meniu punkto, atspausdintu skaičius:
+- lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
+- meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
 ___
 
 ### PROGRAMINĖ ĮRANGA
