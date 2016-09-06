@@ -1,5 +1,7 @@
 # OPERACINĖS SISTEMOS
 
+# OPERACINĖS SISTEMOS
+
 ### VERTINIMO KRITERIJAI
 
 **Vertinimas.** Praktinių užduočių vidurkis.
@@ -22,4 +24,5 @@
 - Windows PowerShell ir CMD komandų sąrašas - (http://ss64.com/).
 - Formos pavyzdys - (https://mcpmag.com/articles/2016/02/17/creating-a-gui-using-out-gridview.aspx).
 - BASH ir PowerShell komandų palyginimas - (http://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html).
+- BASH komandų ir skriptų pavyzdžiai - (https://bash.cyberciti.biz/guide/Main_Page).
 
