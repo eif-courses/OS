@@ -21,7 +21,7 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 
 ___
 **2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if```. 
-
+___
 Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami iš komandinės eilutės:
 
 - palyginti 2 failus tarpusavyje ir nustatyti, kuris failas yra didesnis.
