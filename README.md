@@ -1,9 +1,8 @@
 # OPERACINĖS SISTEMOS
-___
+
 ### VERTINIMO KRITERIJAI
 
 **Vertinimas.** Praktinių užduočių vidurkis.
-___
 
 ### PRAKTINĖS UŽDUOTYS 
 ___
@@ -32,6 +31,7 @@ Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami i�
 - vietoje ```stat``` komandos naudoti komandą ``wc`` failų dydžiui nustatyti.
 
 - nustatyti ar šiems failams yra suteikta teisė „vykdyti“, jeigu taip išvesti atitinkamą pranešimą, kad failas turi ar neturi.
+
 ___
 
 **3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
@@ -40,8 +40,6 @@ ___
 Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviatūros ir priklausomai nuo pasirinkto meniu punkto, atspausdintu skaičius:
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
 - meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
-
-___
 
 ### PROGRAMINĖ ĮRANGA
 - PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
