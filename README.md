@@ -7,7 +7,7 @@
 
 ### PRAKTINĖS UŽDUOTYS 
 ___
-**1 UŽDUOTIS.** Komandų sąrašas užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
+**1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
 ___
 
 
