@@ -1,7 +1,5 @@
 # OPERACINĖS SISTEMOS
 
-# OPERACINĖS SISTEMOS
-
 ### VERTINIMO KRITERIJAI
 
 **Vertinimas.** Praktinių užduočių vidurkis.
