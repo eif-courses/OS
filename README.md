@@ -9,13 +9,13 @@
 ___
 **1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
 ___
-Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pavardės pvz: Marius.Gzegozevskis tada:
+Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pavardės pvz: **Marius.Gzegozevskis** tada:
 
 - šiame kataloge sukurti 2 failus: **pirmas.sh** ir **antras.sh**.
 
-- failams pirmas.sh ir antras.sh suteikti vykdymo teisę.
+- failams **pirmas.sh** ir **antras.sh** suteikti vykdymo teisę.
 
-- aprašyti funkciją sandauga(), kuri apskaičiuoja įvesto iš klaviatūros sveikojo skaičiaus sandaugą, iš skaičių priklausančių intervalui **[1..9]**.
+- aprašyti funkciją **sandauga()**, kuri apskaičiuoja įvesto iš klaviatūros sveikojo skaičiaus sandaugą, iš skaičių priklausančių intervalui **[1..9]**.
 
 - aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
 
