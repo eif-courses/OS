@@ -41,17 +41,14 @@ Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviat
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
 - meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
 
+___
+
 ### PROGRAMINĖ ĮRANGA
 - PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
 
-___
-
 ### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
-- Programų pavyzdžiai - ().
-
-___
-
+- 
 ### LITERATŪROS SĄRAŠAS
 - Windows PowerShell 5 in 24 Hours, Sams Teach Yourself. 
 - OReilly Windows PowerShell Cookbook 3rd Edition 2013.
@@ -60,4 +57,3 @@ ___
 - Formos pavyzdys - (https://mcpmag.com/articles/2016/02/17/creating-a-gui-using-out-gridview.aspx).
 - BASH ir PowerShell komandų palyginimas - (http://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html).
 - BASH komandų ir skriptų pavyzdžiai - (https://bash.cyberciti.biz/guide/Main_Page).
-___
