@@ -17,7 +17,7 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 
 - aprašyti funkciją **sandauga()**, kuri apskaičiuoja įvesto iš klaviatūros sveikojo skaičiaus sandaugą, iš skaičių priklausančių intervalui **[1..9]**.
 
-- aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
+- aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro įvesto iš komandinės eilutės sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
 
 ___
 **2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if```. 
