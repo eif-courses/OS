@@ -48,7 +48,7 @@ ___
 
 ### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
-- 
+
 ### LITERATŪROS SĄRAŠAS
 - Windows PowerShell 5 in 24 Hours, Sams Teach Yourself. 
 - OReilly Windows PowerShell Cookbook 3rd Edition 2013.
