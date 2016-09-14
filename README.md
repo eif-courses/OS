@@ -44,6 +44,8 @@ Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviat
 ___
 
 ### PROGRAMINĖ ĮRANGA
+- VMWARE PLAYER - (http://www.vmware.com/products/player/playerpro-evaluation.html).
+- UBUNTU OS - (http://www.ubuntu.com/download/desktop).
 - PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
 
 ### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
