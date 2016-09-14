@@ -11,11 +11,6 @@ ___
 ___
 
 
-
-### VERTINIMO KRITERIJAI
-
-**Vertinimas.** Praktinių užduočių vidurkis.
-___
 ### PRAKTINĖS UŽDUOTYS 
 ___
 **1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
@@ -56,8 +51,8 @@ Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviat
 ___
 
 ### PROGRAMINĖ ĮRANGA
-- VMWARE PLAYER - (http://www.vmware.com/products/player/playerpro-evaluation.html).
-- UBUNTU OS - (http://www.ubuntu.com/download/desktop).
+- VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
+- Ubuntu OS - (http://www.ubuntu.com/download/desktop).
 - PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
 
 ___
@@ -65,6 +60,11 @@ ___
 ### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
 
+___
+
+### VERTINIMO KRITERIJAI
+
+**Vertinimas.** Praktinių užduočių vidurkis.
 ___
 
 ### LITERATŪROS SĄRAŠAS
