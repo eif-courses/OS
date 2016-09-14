@@ -4,7 +4,9 @@
 
 **Prisijungimas prie serverio.** Kompiuterinėse klasėse galite prisijungti prie Linux OS serverio:
 - IP Adresas: 10.1.22.104
-- Prisijjungimo duomenys. **Username:** nuo student1 iki student62, **Password:** toks pats kaip ir jūsų pasirinktas vartotojo vardas.
+- Prisijungimo duomenys:
+  <p>**Username:** nuo student1 iki student62; </p>
+  <p>**Password:** toks pats kaip ir jūsų pasirinktas vartotojo vardas.</p>
 
 
 
