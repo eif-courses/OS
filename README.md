@@ -19,7 +19,7 @@ ___
 ### PRAKTINĖS UŽDUOTYS 
 ___
 **1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
-___
+
 Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pavardės pvz: **Marius.Gzegozevskis** tada:
 
 - šiame kataloge sukurti 2 failus: **pirmas.sh** ir **antras.sh**.
