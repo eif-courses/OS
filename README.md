@@ -68,10 +68,13 @@ ___
 ___
 
 ### LITERATŪROS SĄRAŠAS
+
+- BASH komandų ir skriptų pavyzdžiai - (https://bash.cyberciti.biz/guide/Main_Page).
+- Pagrindinės BASH programamvimo kalbos komandos - (http://ss64.com/bash/).
 - Windows PowerShell 5 in 24 Hours, Sams Teach Yourself. 
 - OReilly Windows PowerShell Cookbook 3rd Edition 2013.
 - Learn Windows PowerShell in a Month of Lunches 2nd Edition.
-- Windows PowerShell ir CMD komandų sąrašas - (http://ss64.com/).
+- Windows PowerShell ir CMD komandu sarašas - (http://ss64.com/).
 - Formos pavyzdys - (https://mcpmag.com/articles/2016/02/17/creating-a-gui-using-out-gridview.aspx).
-- BASH ir PowerShell komandų palyginimas - (http://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html).
-- BASH komandų ir skriptų pavyzdžiai - (https://bash.cyberciti.biz/guide/Main_Page).
+- BASH ir PowerShell komandu palyginimas - (http://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html).
+
