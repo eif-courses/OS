@@ -57,7 +57,7 @@ ___
 
 ___
 
-### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
+### TEORINĖ MEDŽIAGA 
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
 
 ___
