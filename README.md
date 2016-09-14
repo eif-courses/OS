@@ -32,7 +32,7 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 
 ___
 **2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if```. 
-___
+
 Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami iš komandinės eilutės:
 
 - palyginti 2 failus tarpusavyje ir nustatyti, kuris failas yra didesnis išvesti į ekraną.
@@ -47,7 +47,7 @@ Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami i�
 ___
 
 **3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
-___
+
 
 Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviatūros ir priklausomai nuo pasirinkto meniu punkto, atspausdintu skaičius:
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
@@ -60,8 +60,12 @@ ___
 - UBUNTU OS - (http://www.ubuntu.com/download/desktop).
 - PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
 
+___
+
 ### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
+
+___
 
 ### LITERATŪROS SĄRAŠAS
 - Windows PowerShell 5 in 24 Hours, Sams Teach Yourself. 
