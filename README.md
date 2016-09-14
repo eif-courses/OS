@@ -1,5 +1,14 @@
 # OPERACINĖS SISTEMOS
 
+## PAPILDOMA INFORMACIJA
+
+**Prisijungimas prie serverio.** Kompiuterinėse klasėse galite prisijungti prie Linux OS serverio:
+- IP Adresas: 10.1.22.104
+- Prisijjungimo duomenys. User: student1..62, Password: toks pats kaip ir jūsų pasirinktas vartotojo vardas.
+
+
+
+
 ### VERTINIMO KRITERIJAI
 
 **Vertinimas.** Praktinių užduočių vidurkis.
