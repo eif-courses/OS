@@ -1,20 +1,21 @@
 # OPERACINĖS SISTEMOS
-
+___
 ### PRISIJUNGIMAS PRIE SERVERIO
  Kompiuterinėse klasėse galite prisijungti prie Linux OS serverio:
 - Start > Programs > Accessories > Remote Desktop Connection;
-- Serverio IP Adresas: **10.1.22.104**
+- Serverio IP Adresas: **10.1.22.104**;
 - Prisijungimo duomenys:
-  <p>**Username:** nuo student1 iki student62; </p>
-  <p>**Password:** toks pats kaip ir jūsų pasirinktas vartotojo vardas.</p>
+  - <p>**Username:** nuo student1 iki student62; </p>
+  - <p>**Password:** toks pats kaip ir jūsų pasirinktas vartotojo vardas.</p>
 
+___
 
 
 
 ### VERTINIMO KRITERIJAI
 
 **Vertinimas.** Praktinių užduočių vidurkis.
-
+___
 ### PRAKTINĖS UŽDUOTYS 
 ___
 **1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
