@@ -60,7 +60,7 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**:
 - Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: <br/>
  - **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; <br/>
  - **chmod** -x failo_pavadinimas -> atimti teisę vykdyti;
-- **chmod** +xwr failo_pavadinimas -> suteikti visas teises;
+ - **chmod** +xwr failo_pavadinimas -> suteikti visas teises;
 - **ls** - komanda skirta peržiūrėti failus einamąjame kataloge;
 - **man** bet_kuri_komanda - informacija apie nurodytą komandą;
 
@@ -70,8 +70,7 @@ ___
 ### PROGRAMINĖ ĮRANGA
 - VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
 - Ubuntu OS - (http://www.ubuntu.com/download/desktop).
-- PowerShell - (https://technet.microsoft.com/en-us/scriptcenter/dd772288).
-
+- Kaip įdiegti LINUX operacinę sistemą į **Vmware Player** (https://www.youtube.com/watch?v=Lv6V6ESOyUk).
 ___
 
 ### TEORINĖ MEDŽIAGA 
