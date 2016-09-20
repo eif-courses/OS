@@ -68,9 +68,11 @@ ___
 
 
 ### PROGRAMINĖ ĮRANGA
-- VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
-- Ubuntu OS - (http://www.ubuntu.com/download/desktop).
+
 - Kaip įdiegti LINUX operacinę sistemą į **Vmware Player** (https://www.youtube.com/watch?v=Lv6V6ESOyUk).
+ - VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
+ - Ubuntu OS - (http://www.ubuntu.com/download/desktop).
+
 ___
 
 ### TEORINĖ MEDŽIAGA 
