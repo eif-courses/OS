@@ -60,9 +60,9 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**:
 - Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: <br/>
  - **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; <br/>
  - **chmod** -x failo_pavadinimas -> atimti teisę vykdyti;
- - **chmod** +xwr failo_pavadinimas -> suteikti visas teises;
- - **ls** - komanda skirta peržiūrėti failus einamąjame kataloge;
- - **man** bet_kuri_komanda - informacija apie nurodytą komandą;
+- **chmod** +xwr failo_pavadinimas -> suteikti visas teises;
+- **ls** - komanda skirta peržiūrėti failus einamąjame kataloge;
+- **man** bet_kuri_komanda - informacija apie nurodytą komandą;
 
 ___
 
