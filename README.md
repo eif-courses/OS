@@ -69,7 +69,7 @@ ___
 
 ### PROGRAMINĖ ĮRANGA
 
-- Kaip įdiegti LINUX operacinę sistemą į **Vmware Player** (https://www.youtube.com/watch?v=Lv6V6ESOyUk).
+- Kaip įdiegti LINUX operacinę sistemą į **VMware Player** (https://www.youtube.com/watch?v=Lv6V6ESOyUk).
  - VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
  - Ubuntu OS - (http://www.ubuntu.com/download/desktop).
 
@@ -77,7 +77,7 @@ ___
 
 ### TEORINĖ MEDŽIAGA 
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
-
+- 
 ___
 
 ### VERTINIMO KRITERIJAI
