@@ -53,8 +53,8 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**.
  - **chmod** +xwr failo_pavadinimas -> suteikti visas teises.
 - **ls** - komanda skirta peržiūrėti failus einamąjame kataloge.
 - **man** bet_kuri_komanda - informacija apie nurodytą komandą.
-- *export* -f manoFunkcija - eksportuojame funkciją, kurią galėsime pasiekti iš kito failo.
- - norint importuoti funkciją, tikslo faile įrašome: *source* failo_pavadinimas (iš kurio importuojame).
+- **export** -f manoFunkcija - eksportuojame funkciją, kurią galėsime pasiekti iš kito failo.
+ - norint importuoti funkciją, tikslo faile įrašome: **source** failo_pavadinimas (iš kurio importuojame).
 ___
 
 
