@@ -55,6 +55,7 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**.
 - **man** bet_kuri_komanda - informacija apie nurodytą komandą.
 - **export** -f manoFunkcija - eksportuojame funkciją, kurią galėsime pasiekti iš kito failo.
  - norint importuoti funkciją, tikslo faile įrašome: **source** failo_pavadinimas (iš kurio importuojame).
+ - Kaip paleisti jūsų programą: **./failoPav.sh** parametras1 parametras2.
 
 ___
 
