@@ -15,25 +15,26 @@ ___
 ___
 **1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
 
-Sukurti naują katalogą *Vardas.Pavardė*.
+Sukurti naują katalogą **Vardas.Pavardė**.
 - Šiame kataloge sukurti 2 failus: **main.sh** ir **source.sh**.
 - Failams **main.sh** ir **source.sh** suteikti vykdymo teisę.
-- Aprašyti funkciją **sandauga()**, kuri skaičių seką iš intervalo *[1..9]* padaugintų su skaičiumi įvestu iš klaviatūros.  
-- *source.sh* faile sukurti funkciją *skaiciuok()*, kuri apskaičiuotų dviejų skaičių įvestų iš klaviatūros sandaugą.
-- Funkciją *skaiciuok()* eksportuoti naudojant komandą *export* ir iškviesti faile *main.sh*.
+- Aprašyti funkciją **sandauga()**, kuri skaičių seką iš intervalo **[1..9]** padaugintų su skaičiumi įvestu iš klaviatūros.  
+- **source.sh** faile sukurti funkciją **skaiciuok()**, kuri apskaičiuotų dviejų skaičių įvestų iš klaviatūros sandaugą.
+- Funkciją **skaiciuok()** eksportuoti naudojant komandą **export** ir iškviesti faile **main.sh**.
 
 ___
 **2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if, read```. 
 
 Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš komandinės eilutės:
-- Nustatyti, kuris failas yra didesnis naudojant *wc* ir *stat* komandas; 
-- Išvesti į ekraną didesniojio failo pavadinimą paryškintą, kuria nors spalva pvz: geltona;
-- Nustatyti ar šiems failams yra suteikta teisė *vykdyti*, rezultatą išvesti į ekraną;
+- Nustatyti, kuris failas yra didesnis naudojant **wc** ir **stat** komandas.
+- Išvesti į ekraną didesniojio failo pavadinimą paryškintą, kuria nors spalva pvz: geltona.
+- Nustatyti ar šiems failams yra suteikta teisė **vykdyti**, rezultatą išvesti į ekraną.
 
 ___
 
 **3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
-Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviatūros ir priklausomai nuo pasirinkto meniu punkto, atspausdintu skaičius:
+
+Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Sukurti meniu, kuriame pagal pasirinktą punktą išvestų skaičius:
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
 - meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
 
