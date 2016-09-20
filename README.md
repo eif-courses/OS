@@ -50,6 +50,16 @@ Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviat
 
 ___
 
+### KOMANDŲ PAVYZDŽIAI
+- Pereiti į nurodytą katalogą: **cd** <kelias_iki_katalogo>
+- Sukurti nauja katalogą: **mkdir** <katalogo_pavadinimas>
+- Ištrinti katalogą: **rmdir** <katalogo_pavadinimas>
+- Sukurti failą: **touch** <failo_pavadinimas>
+
+
+___
+
+
 ### PROGRAMINĖ ĮRANGA
 - VMware player - (http://www.vmware.com/products/player/playerpro-evaluation.html).
 - Ubuntu OS - (http://www.ubuntu.com/download/desktop).
