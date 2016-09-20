@@ -57,10 +57,12 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**:
 - Sukurti nauja katalogą: **mkdir** katalogo_pavadinimas;
 - Ištrinti katalogą: **rmdir** katalogo_pavadinimas;
 - Sukurti failą: **touch** failo_pavadinimas;
-- Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: 
-- **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; 
-- **chmod** -x failo_pavadinimas -> atimti teisę vykdyti; 
-
+- Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: <br/>
+ - **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; <br/>
+ - **chmod** -x failo_pavadinimas -> atimti teisę vykdyti;
+ - **chmod** +xwr failo_pavadinimas -> suteikti visas teises;
+ - **ls** - komanda skirta peržiūrėti failus einamąjame kataloge;
+ - **man** bet_kuri_komanda - informacija apie nurodytą komandą;
 
 ___
 
