@@ -26,19 +26,12 @@ Sukurti naują katalogą, kurio pavadinimas yra sudarytas iš jūsų vardo ir pa
 - aprašyti funkciją **eksportavimas()** faile **antras.sh**, kuri apskaičiuoja pirmojo ir antrojo parametro įvesto iš komandinės eilutės sandaugos reikšmę, funkciją eksportavimas() iškviečiame iš failo: **pirmas.sh**.
 
 ___
-**2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if```. 
+**2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if, read```. 
 
-Sukurkite scenarijų, kuris nuskaitytų 2 failus, failų pavadinimai įvedami iš komandinės eilutės:
-
-- palyginti 2 failus tarpusavyje ir nustatyti, kuris failas yra didesnis išvesti į ekraną.
-
-- išvesti failų informaciją į ekraną, bei pateikti rezultatą, kuris failas yra didesnis, taip pat jeigu failų dydžiai yra vienodi išvesti atitinkamą tekstą. 
-- jeigu failas yra didesnis paryškinti šio failo vardą pavyzdžiui geltoną ar kokia nors kita spalva.
-
-- vietoje ```stat``` komandos naudoti komandą ``wc`` failų dydžiui nustatyti.
-
-- nustatyti ar šiems failams yra suteikta teisė „vykdyti“, jeigu taip išvesti atitinkamą pranešimą, kad failas turi ar neturi.
-
+Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš komandinės eilutės:
+- Nustatyti, kuris failas yra didesnis naudojant *wc* ir *stat* komandas; 
+- Išvesti į ekraną didesniojio failo pavadinimą paryškintą, kuria nors spalva pvz: geltona;
+- Nustatyti ar šiems failams yra suteikta teisė *vykdyti*, rezultatą išvesti į ekraną;
 ___
 
 **3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
