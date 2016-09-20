@@ -36,7 +36,7 @@ ___
 
 Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Sukurti meniu, kuriame pagal pasirinktą punktą išvestų skaičius:
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
-- meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
+- Meniu juostos pavyzdį galite rasti čia: (https://bash.cyberciti.biz/guide/Infinite_while_loop).
 
 ___
 
