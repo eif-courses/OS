@@ -57,7 +57,9 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**:
 - Sukurti nauja katalogą: **mkdir** katalogo_pavadinimas;
 - Ištrinti katalogą: **rmdir** katalogo_pavadinimas;
 - Sukurti failą: **touch** failo_pavadinimas;
-- Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju, jeigu norite atimti teisę vykdyti **chmod** -x failo_pavadinimas. 
+- Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: 
+- **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; 
+- **chmod** -x failo_pavadinimas -> atimti teisę vykdyti; 
 
 
 ___
