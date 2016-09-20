@@ -51,10 +51,13 @@ Sukurkite scenarijų, kuriame sveikųjų skaičių seka yra įvedama iš klaviat
 ___
 
 ### KOMANDŲ PAVYZDŽIAI
-- Pereiti į nurodytą katalogą: ``` **cd** kelias_iki_katalogo ```;
+
+Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**:  
+- Pereiti į nurodytą katalogą: **cd** Operacinės_sistemos;
 - Sukurti nauja katalogą: **mkdir** katalogo_pavadinimas;
 - Ištrinti katalogą: **rmdir** katalogo_pavadinimas;
 - Sukurti failą: **touch** failo_pavadinimas;
+- Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju, jeigu norite atimti teisę vykdyti **chmod** -x failo_pavadinimas. 
 
 
 ___
