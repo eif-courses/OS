@@ -68,9 +68,9 @@ ___
 
 ___
 
-### TEORINĖ MEDŽIAGA 
+### TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI
 - Paskaitų medžiaga - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash).
-
+- Programų pavyzdžiai - (https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash/Pavyzd%C5%BEiai).
 ___
 
 ### VERTINIMO KRITERIJAI
