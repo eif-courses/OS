@@ -13,7 +13,7 @@ ___
 
 ### PRAKTINĖS UŽDUOTYS 
 ___
-**1 UŽDUOTIS.** Komandos užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
+**1 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti : ```cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if```.
 
 Sukurti naują katalogą **Vardas.Pavardė**.
 - Šiame kataloge sukurti 2 failus: **main.sh** ir **source.sh**.
@@ -23,7 +23,7 @@ Sukurti naują katalogą **Vardas.Pavardė**.
 - Funkciją **skaiciuok()** eksportuoti naudojant komandą **export** ir iškviesti faile **main.sh**.
 
 ___
-**2 UŽDUOTIS.** Komandos užduočiai atlikti: ```stat, wc, if, read```. 
+**2 UŽDUOTIS.**Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```stat, wc, if, read```. 
 
 Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš komandinės eilutės:
 - Nustatyti, kuris failas yra didesnis naudojant **wc** ir **stat** komandas.
@@ -32,7 +32,7 @@ Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš ko
 
 ___
 
-**3 UŽDUOTIS.** Komandos užduočiai atlikti: ```do, while, case, read, echo```.
+**3 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```do, while, case, read, echo```.
 
 Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Sukurti meniu, kuriame pagal pasirinktą punktą išvestų skaičius:
 - lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.
