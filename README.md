@@ -69,7 +69,7 @@ Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**.
  - **chmod** +x failo_pavadinimas -> failas tampa vykduomuoju; <br/>
  - **chmod** -x failo_pavadinimas -> atimti teisę vykdyti;
  - **chmod** +xwr failo_pavadinimas -> suteikti visas teises.
-- **ls** - komanda skirta peržiūrėti failus einamąjame kataloge.
+- **ls** - komanda skirta peržiūrėti failus einamajame kataloge.
 - **man** bet_kuri_komanda - informacija apie nurodytą komandą.
 - **export** -f manoFunkcija - eksportuojame funkciją, kurią galėsime pasiekti iš kito failo.
  - Norint importuoti funkciją, tikslo faile įrašome: **source** failo_pavadinimas (iš kurio importuojame).
