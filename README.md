@@ -53,6 +53,8 @@ Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, taip pat sukurt
 -  **--text-info**                                       Display text information dialog
 -  **--color-selection**                                 Display color selection dialog
 
+Zenity komandų aprašas su pavyzdžiais - (https://help.gnome.org/users/zenity/stable/).
+
 Progress bar pavyzdį rasite čia: (http://askubuntu.com/questions/385003/is-zenity-progress-bar-affecting-variables).
 
 ![alt tag] (http://i.stack.imgur.com/j7Pr3.gif)
