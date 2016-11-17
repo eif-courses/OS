@@ -42,6 +42,7 @@ ___
 
 **4 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```zenity --help```.
 Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, taip pat sukurti keletą prasmingų funkcijų, jeigu neturite zenity UBUNTU OS galite atsisiųsti įvedę šią komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai: 
+
 -  **--calendar**                                        Display calendar dialog
 -  **--entry**                                           Display text entry dialog
 -  **--info**                                            Display info dialog
@@ -49,7 +50,7 @@ Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, taip pat sukurt
 -  **--list**                                            Display list dialog
 -  **--notification**                                    Display notification
 -  **--progress**                                        Display progress indication dialog
--  **--question**                                        Display question dialog
+-  **--forms**                                           Display forms dialog
 -  **--text-info**                                       Display text information dialog
 -  **--color-selection**                                 Display color selection dialog
 
