@@ -42,8 +42,10 @@ ___
 
 **4 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```zenity --help```, ```function```.
 Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, jeigu neturite galite atsisiųsti šia komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai:
-- Įvedimo laukas, Tekstinė žinutė, Kalendorius, Failo parinkimo dialogo langas, Pranešimas (angl. Notification).
-- Zenity pavyzdys - (http://www.howtogeek.com/107537/how-to-make-simple-graphical-shell-scripts-with-zenity-on-linux/).
+- Įvedimo laukas, Tekstinė žinutė, Kalendorius, Failo parinkimo dialogo langas, Pranešimas (angl. Notification), progress bar.
+
+Progress bar pavyzdį rasite čia: (http://askubuntu.com/questions/385003/is-zenity-progress-bar-affecting-variables).
+![alt tag](http://i.stack.imgur.com/j7Pr3.gif)
 
 ___
 
