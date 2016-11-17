@@ -40,6 +40,12 @@ Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Su
 
 ___
 
+**4 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```zenity --help```, ```function```.
+Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, jeigu neturite galite atsisiųsti šia komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai:
+- Įvedimo laukas, Tekstinė žinutė, Kalendorius, Failo parinkimo dialogo langas, Pranešimas (angl. Notification).
+
+
+
 ### KOMANDŲ PAVYZDŽIAI
 
 Pavyzdžiui turime katalogą pavadinimu **Operacinės_sistemos**.  
