@@ -41,8 +41,21 @@ Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Su
 ___
 
 **4 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```zenity --help```, ```function```.
-Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, jeigu neturite galite atsisiųsti šia komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai:
-- Įvedimo laukas, Tekstinė žinutė, Kalendorius, Failo parinkimo dialogo langas, Pranešimas (angl. Notification), progress bar.
+Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, jeigu neturite galite atsisiųsti šia komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai: 
+Application Options:
+  --calendar                                        Display calendar dialog
+  --entry                                           Display text entry dialog
+  --error                                           Display error dialog
+  --info                                            Display info dialog
+  --file-selection                                  Display file selection dialog
+  --list                                            Display list dialog
+  --notification                                    Display notification
+  --progress                                        Display progress indication dialog
+  --question                                        Display question dialog
+  --warning                                         Display warning dialog
+  --scale                                           Display scale dialog
+  --text-info                                       Display text information dialog
+  --color-selection                                 Display color selection dialog
 
 Progress bar pavyzdį rasite čia: (http://askubuntu.com/questions/385003/is-zenity-progress-bar-affecting-variables).
 ![alt tag](http://i.stack.imgur.com/j7Pr3.gif)
