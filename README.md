@@ -44,7 +44,7 @@ ___
 
 Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, taip pat sukurti keletą prasmingų funkcijų pvz: išvesti informacinį langą atvaizduojantį tam tikrus duomenis priklausomai nuo parinktos datos iš kalendoriaus, paskaičiuoti plotą, surušiuoti skaičius didėjimo mažėjimo tvarka ir pnš. 
 
-Jeigu neturite zenity UBUNTU OS galite atsisiųsti įvedę šią komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai: 
+Jeigu neturite zenity UBUNTU OS galite atsisiųsti įvedę šią komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje privalote panaudoti šiuos komponentus: 
 
 -  **--calendar**                                        Display calendar dialog
 -  **--entry**                                           Display text entry dialog
