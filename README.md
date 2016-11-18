@@ -23,7 +23,7 @@ Sukurti naują katalogą **Vardas.Pavardė**.
 - Funkciją **skaiciuok()** eksportuoti naudojant komandą **export** ir iškviesti faile **main.sh**.
 
 ___
-**2 UŽDUOTIS.**Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```stat, wc, if, read```. 
+**2 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```stat, wc, if, read```. 
 
 Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš komandinės eilutės:
 - Nustatyti, kuris failas yra didesnis naudojant **wc** ir **stat** komandas.
@@ -41,6 +41,7 @@ Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka **1..n**. Su
 ___
 
 **4 UŽDUOTIS.** Komandos, kurių gali prireikti jūsų užduočiai atlikti: ```zenity --help```.
+
 Sukurti programą, kurioje būtų taikoma **zenity** biblioteka, taip pat sukurti keletą prasmingų funkcijų, jeigu neturite zenity UBUNTU OS galite atsisiųsti įvedę šią komanda: `sudo apt-get install zenity`. Programos tematiką privalote sugalvoti patys, kurioje turėtų būti panaudoti šię komponentai: 
 
 -  **--calendar**                                        Display calendar dialog
