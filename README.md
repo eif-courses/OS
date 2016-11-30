@@ -1,5 +1,10 @@
 # OPERACINĖS SISTEMOS
 ___
+
+**Kontaktinė informacija:** El. paštas: (m.gzegozevskis@eif.viko.lt).
+
+___
+
 ### PRISIJUNGIMAS PRIE SERVERIO
  Kompiuterinėse klasėse galite prisijungti prie Linux OS serverio:
 - Start > Programs > Accessories > Remote Desktop Connection;
