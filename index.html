@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Operacines-sistemos by eif-courses</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Operacines-sistemos</h1>
+      <h2 class="project-tagline">Operacinės sistemos kursas, kuriuo metu bus apžvelgiamos pagrindinės Unix OS komandos. Skriptų rašymas Bash programavimo kalba. Kurso medžiaga, vertinimo kriterijai ir kita naudinga informacija.</h2>
+      <a href="https://github.com/eif-courses/Operacines-sistemos" class="btn">View on GitHub</a>
+      <a href="https://github.com/eif-courses/Operacines-sistemos/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/eif-courses/Operacines-sistemos/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="operacinĖs-sistemos" class="anchor" href="#operacin%C4%96s-sistemos" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>OPERACINĖS SISTEMOS</h1>
+
+<hr>
+
+<p><strong>Kontaktinė informacija:</strong> El. paštas: (<a href="mailto:m.gzegozevskis@eif.viko.lt">m.gzegozevskis@eif.viko.lt</a>).</p>
+
+<hr>
+
+<h3>
+<a id="prisijungimas-prie-serverio" class="anchor" href="#prisijungimas-prie-serverio" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PRISIJUNGIMAS PRIE SERVERIO</h3>
+
+<p>Kompiuterinėse klasėse galite prisijungti prie Linux OS serverio:</p>
+
+<ul>
+<li>Start &gt; Programs &gt; Accessories &gt; Remote Desktop Connection;</li>
+<li>Serverio IP Adresas: <strong>10.1.22.104</strong>;</li>
+<li>Prisijungimo duomenys:
+
+<ul>
+<li><p><strong>Username:</strong> nuo student1 iki student62; </p></li>
+<li><p><strong>Password:</strong> toks pats kaip ir jūsų pasirinktas vartotojo vardas.</p></li>
+</ul>
+</li>
+</ul>
+
+<hr>
+
+<h3>
+<a id="praktinĖs-uŽduotys" class="anchor" href="#praktin%C4%96s-u%C5%BDduotys" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PRAKTINĖS UŽDUOTYS</h3>
+
+<hr>
+
+<p><strong>1 UŽDUOTIS.</strong> Komandos, kurių gali prireikti jūsų užduočiai atlikti : <code>cd, mkdir, touch, chmod, echo, read, export, expr, ls, man, pwd, for, if</code>.</p>
+
+<p>Sukurti naują katalogą <strong>Vardas.Pavardė</strong>.</p>
+
+<ul>
+<li>Šiame kataloge sukurti 2 failus: <strong>main.sh</strong> ir <strong>source.sh</strong>.</li>
+<li>Failams <strong>main.sh</strong> ir <strong>source.sh</strong> suteikti vykdymo teisę.</li>
+<li>Aprašyti funkciją <strong>sandauga()</strong>, kuri skaičių seką iš intervalo <strong>[1..9]</strong> padaugintų su skaičiumi įvestu iš klaviatūros.<br>
+</li>
+<li>
+<strong>source.sh</strong> faile sukurti funkciją <strong>skaiciuok()</strong>, kuri apskaičiuotų dviejų skaičių įvestų iš klaviatūros sandaugą.</li>
+<li>Funkciją <strong>skaiciuok()</strong> eksportuoti naudojant komandą <strong>export</strong> ir iškviesti faile <strong>main.sh</strong>.</li>
+</ul>
+
+<hr>
+
+<p><strong>2 UŽDUOTIS.</strong> Komandos, kurių gali prireikti jūsų užduočiai atlikti: <code>stat, wc, if, read</code>. </p>
+
+<p>Sukurti scenarijų (angl. script), kuris nuskaitytų 2 failų pavadinimus iš komandinės eilutės:</p>
+
+<ul>
+<li>Nustatyti, kuris failas yra didesnis naudojant <strong>wc</strong> ir <strong>stat</strong> komandas.</li>
+<li>Išvesti į ekraną didesniojio failo pavadinimą paryškintą, kuria nors spalva pvz: geltona.</li>
+<li>Nustatyti ar šiems failams yra suteikta teisė <strong>vykdyti</strong>, rezultatą išvesti į ekraną.</li>
+</ul>
+
+<hr>
+
+<p><strong>3 UŽDUOTIS.</strong> Komandos, kurių gali prireikti jūsų užduočiai atlikti: <code>do, while, case, read, echo</code>.</p>
+
+<p>Sukurti programą, kurioje būtų įvedama baigtinė skaičių seka <strong>1..n</strong>. Sukurti meniu, kuriame pagal pasirinktą punktą išvestų skaičius:</p>
+
+<ul>
+<li>lyginius, nelyginius, atvirkščia tvarka, visus, sugalvoti individualiai.</li>
+<li>Meniu juostos pavyzdį galite rasti čia: (<a href="https://bash.cyberciti.biz/guide/Infinite_while_loop">https://bash.cyberciti.biz/guide/Infinite_while_loop</a>).</li>
+</ul>
+
+<hr>
+
+<p><strong>4 UŽDUOTIS.</strong> Komandos, kurių gali prireikti jūsų užduočiai atlikti: <code>zenity --help</code>.</p>
+
+<p>Sukurti programą, kurioje būtų taikoma <strong>zenity</strong> biblioteka, taip pat sukurti keletą prasmingų funkcijų pvz: išvesti informacinį langą atvaizduojantį tam tikrus duomenis priklausomai nuo parinktos datos iš kalendoriaus, paskaičiuoti plotą, surušiuoti skaičius didėjimo mažėjimo tvarka ir pnš. </p>
+
+<p>Jeigu neturite zenity UBUNTU OS galite atsisiųsti įvedę šią komanda: <code>sudo apt-get install zenity</code>. Programos tematiką privalote sugalvoti patys, kurioje privalote panaudoti šiuos komponentus: </p>
+
+<ul>
+<li> <strong>--calendar</strong>                                        Display calendar dialog</li>
+<li> <strong>--entry</strong>                                           Display text entry dialog</li>
+<li> <strong>--info</strong>                                            Display info dialog</li>
+<li> <strong>--file-selection</strong>                                  Display file selection dialog</li>
+<li> <strong>--list</strong>                                            Display list dialog</li>
+<li> <strong>--notification</strong>                                    Display notification</li>
+<li> <strong>--progress</strong>                                        Display progress indication dialog</li>
+<li> <strong>--forms</strong>                                           Display forms dialog</li>
+<li> <strong>--text-info</strong>                                       Display text information dialog</li>
+<li> <strong>--color-selection</strong>                                 Display color selection dialog</li>
+</ul>
+
+<p>Zenity komandų aprašas su pavyzdžiais - (<a href="https://help.gnome.org/users/zenity/stable/">https://help.gnome.org/users/zenity/stable/</a>).</p>
+
+<p>Progress bar pavyzdį rasite čia: (<a href="http://askubuntu.com/questions/385003/is-zenity-progress-bar-affecting-variables">http://askubuntu.com/questions/385003/is-zenity-progress-bar-affecting-variables</a>).</p>
+
+<p><img src="http://i.stack.imgur.com/j7Pr3.gif" alt="alt tag"></p>
+
+<hr>
+
+<h3>
+<a id="komandŲ-pavyzdŽiai" class="anchor" href="#komand%C5%B2-pavyzd%C5%BDiai" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>KOMANDŲ PAVYZDŽIAI</h3>
+
+<p>Pavyzdžiui turime katalogą pavadinimu <strong>Operacinės_sistemos</strong>.  </p>
+
+<ul>
+<li>Pereiti į nurodytą katalogą: <strong>cd</strong> Operacinės_sistemos.</li>
+<li>Sukurti nauja katalogą: <strong>mkdir</strong> katalogo_pavadinimas.</li>
+<li>Ištrinti katalogą: <strong>rmdir</strong> katalogo_pavadinimas.</li>
+<li>Sukurti failą: <strong>touch</strong> failo_pavadinimas.</li>
+<li>Kontroliuoti failo teises: rašyti - w, skaityti - r, vykdyti - x: <br>
+
+<ul>
+<li>
+<strong>chmod</strong> +x failo_pavadinimas -&gt; failas tampa vykduomuoju; <br>
+</li>
+<li>
+<strong>chmod</strong> -x failo_pavadinimas -&gt; atimti teisę vykdyti;</li>
+<li>
+<strong>chmod</strong> +xwr failo_pavadinimas -&gt; suteikti visas teises.</li>
+</ul>
+</li>
+<li>
+<strong>ls</strong> - komanda skirta peržiūrėti failus einamajame kataloge.</li>
+<li>
+<strong>man</strong> bet_kuri_komanda - informacija apie nurodytą komandą.</li>
+<li>
+<strong>export</strong> -f manoFunkcija - eksportuojame funkciją, kurią galėsime pasiekti iš kito failo.
+
+<ul>
+<li>Norint importuoti funkciją, tikslo faile įrašome: <strong>source</strong> failo_pavadinimas (iš kurio importuojame).</li>
+<li>Kaip paleisti jūsų programą: <strong>./failoPav.sh</strong> parametras1 parametras2.</li>
+</ul>
+</li>
+</ul>
+
+<hr>
+
+<h3>
+<a id="programinĖ-Įranga" class="anchor" href="#programin%C4%96-%C4%AEranga" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>PROGRAMINĖ ĮRANGA</h3>
+
+<ul>
+<li>Kaip įdiegti LINUX operacinę sistemą į <strong>VMware Player</strong> (<a href="https://www.youtube.com/watch?v=Lv6V6ESOyUk">https://www.youtube.com/watch?v=Lv6V6ESOyUk</a>).
+
+<ul>
+<li>VMware player - (<a href="http://www.vmware.com/products/player/playerpro-evaluation.html">http://www.vmware.com/products/player/playerpro-evaluation.html</a>).</li>
+<li>Ubuntu OS - (<a href="http://www.ubuntu.com/download/desktop">http://www.ubuntu.com/download/desktop</a>).</li>
+</ul>
+</li>
+</ul>
+
+<hr>
+
+<h3>
+<a id="teorinĖ-medŽiaga-ir-programŲ-pavyzdŽiai" class="anchor" href="#teorin%C4%96-med%C5%BDiaga-ir-program%C5%B2-pavyzd%C5%BDiai" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>TEORINĖ MEDŽIAGA IR PROGRAMŲ PAVYZDŽIAI</h3>
+
+<ul>
+<li>Paskaitų medžiaga - (<a href="https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash">https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash</a>).</li>
+<li>Programų pavyzdžiai - (<a href="https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash/Pavyzd%C5%BEiai">https://github.com/fontpoint/OS/tree/master/Teorin%C4%97%20med%C5%BEiaga/Bash/Pavyzd%C5%BEiai</a>).</li>
+</ul>
+
+<hr>
+
+<h3>
+<a id="vertinimo-kriterijai" class="anchor" href="#vertinimo-kriterijai" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>VERTINIMO KRITERIJAI</h3>
+
+<p><strong>Vertinimas.</strong> Praktinių užduočių vidurkis.</p>
+
+<hr>
+
+<h3>
+<a id="literatŪros-sĄraŠas" class="anchor" href="#literat%C5%AAros-s%C4%84ra%C5%A0as" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>LITERATŪROS SĄRAŠAS</h3>
+
+<ul>
+<li>BASH komandų ir skriptų pavyzdžiai - (<a href="https://bash.cyberciti.biz/guide/Main_Page">https://bash.cyberciti.biz/guide/Main_Page</a>).</li>
+<li>Pagrindinės BASH programamvimo kalbos komandos - (<a href="http://ss64.com/bash/">http://ss64.com/bash/</a>).</li>
+<li>BASH ir PowerShell komandu palyginimas - (<a href="http://cecs.wright.edu/%7Epmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html">http://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html</a>).</li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/eif-courses/Operacines-sistemos">Operacines-sistemos</a> is maintained by <a href="https://github.com/eif-courses">eif-courses</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
